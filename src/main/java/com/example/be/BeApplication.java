@@ -13,6 +13,7 @@ import java.util.TimeZone;
         BeApplication.class,
         Jsr310JpaConverters.class
 })
+// hungdssdaaa
 public class BeApplication {
 
     @PostConstruct
